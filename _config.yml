@@ -106,10 +106,9 @@ analytics:
 author:
   name             : "✴"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "╱ aesthete
+  bio              : "╱ aesthete <
 ╱ mostly read, drink coffee, walk, take pictures, and sometimes draw & paint.
 ╱ 수면(睡眠/水面) 아래에서."
-  location         : "Somewhere"
   email            :
   links:
     - label: "Email"
